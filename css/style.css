@@ -1,0 +1,18 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+.table-header{
+	margin: 0 auto;
+}
+h1,h3{
+	text-align: center;
+}
+.izquierdo{
+	float: left;
+    width: 50%;
+}
+.derecho{
+	margin-top: 2%;
+    width: 50%;
+    float: right;
+}
